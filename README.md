@@ -1,2 +1,39 @@
-# repo_2
-Repositorio para pruebas de trabajo colaborativo y en grupo 
+# Proyecto de uso de herramienta GIT con contribuyentes 
+
+Breve descripcion
+
+---
+
+## Tabla de contendo
+- [caracteristicas](#caracteristicas)
+- [tecnologias](#tecnologias)
+- [requerimientos](#requerimientos)
+- [instalacion](#instalacion)
+
+## Caracteristicas
+- funcionalidad 1
+- funcionalidad 2
+- funcionalidad 3
+
+---
+
+## Tecnologias
+- Lenguaje/ Framework principal
+- bases de datos
+- librerias claves
+
+---
+
+## Requerimientos
+- version minima del lenguaje
+- dependencias necesarias
+- sofware requerido
+
+---
+## instalación 
+
+pasos para instalar el proyecto localmente
+
+```bash
+git https://github.com/BryanAlexander-Reyes/repo_2.git
+cd proyecto
