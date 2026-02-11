@@ -58,3 +58,9 @@ entre otras configuraciones del repo
 ```bash
 git https://github.com/BryanAlexander-Reyes/repo_2.git
 cd proyecto
+```
+
+---
+## Video tutorial 
+
+[![Click para ver video](asset/imagen_git.png)](https://youtu.be/mkEMgc_R_iI?si=z77IXl0h-cRcgS8U)
