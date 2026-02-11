@@ -42,12 +42,11 @@ pasos para instalar el proyecto localmente
 cuando el proyecto este instalado podras modificar el repo 
 entre otras configuraciones del repo
 
+## colaboradores 
+- brayan
+- david
+- kevin 
 
----
-## Colaboradores
-- Cristian Barrera
-- Brayan Reyes
-- Kevin hernandez
 
 
 
