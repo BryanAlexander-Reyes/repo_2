@@ -24,10 +24,14 @@ Breve descripcion
 
 ---
 
+
+
 ## Requerimientos
 - version minima del lenguaje
 - dependencias necesarias
 - sofware requerido
+
+
 
 ---
 ## instalación 
@@ -37,10 +41,9 @@ pasos para instalar el proyecto localmente
 cuando el proyecto este instalado podras modificar el repo 
 entre otro configuraciosn 
 
-## Colaboladores 
-- Brayas Reyes 
-- Barrera Cruz 
-- Kevin Hernandez 
+
+
+
 
 
 ```bash
