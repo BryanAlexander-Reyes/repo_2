@@ -65,3 +65,12 @@ cd proyecto
 
 [![Click para ver video](asset/imagen_git.png)](https://youtu.be/7v_NUHXmFCw?si=3VJvFtu6hxojlffs)
 [![Click para ver video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZP8RN3tS9O5c1aXWCej-0YsflwVZA3SULPQ&s)](https://youtu.be/7v_NUHXmFCw?si=3VJvFtu6hxojlffs)
+
+---
+## Demo 
+
+si quieres ver el programa dar click
+
+[open in stackblitz](https://stackblitz.com/edit/secret-python-v5jap8mn?file=main.py)
+
+---
