@@ -43,9 +43,10 @@ cuando el proyecto este instalado podras modificar el repo
 entre otro configuraciones en la rama develop 
 
 
-
-
-
+## colaboradores 
+- brayan
+- david
+- kevin 
 
 ```bash
 git https://github.com/BryanAlexander-Reyes/repo_2.git
