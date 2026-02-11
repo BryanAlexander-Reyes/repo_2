@@ -40,13 +40,17 @@ Breve descripcion
 pasos para instalar el proyecto localmente
 
 cuando el proyecto este instalado podras modificar el repo 
-entre otro configuraciones en la rama develop 
-
+entre otras configuraciones del repo
 
 ## colaboradores 
 - brayan
 - david
 - kevin 
+
+
+
+
+
 
 ```bash
 git https://github.com/BryanAlexander-Reyes/repo_2.git
