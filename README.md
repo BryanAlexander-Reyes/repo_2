@@ -21,6 +21,7 @@ Breve descripcion
 - Lenguaje/ Framework principal
 - bases de datos
 - librerias claves
+- Deep Learning Super Sampling
 
 ---
 
@@ -40,6 +41,7 @@ pasos para instalar el proyecto localmente
 
 cuando el proyecto este instalado podras modificar el repo 
 entre otras configuraciones del repo
+
 
 ---
 ## Colaboradores
