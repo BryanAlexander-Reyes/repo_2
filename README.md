@@ -21,6 +21,7 @@ Breve descripcion
 - Lenguaje/ Framework principal
 - bases de datos
 - librerias claves
+- Deep Learning Super Sampling
 
 ---
 
