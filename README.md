@@ -35,7 +35,7 @@ Breve descripcion
 pasos para instalar el proyecto localmente
 
 cuando el proyecto este instalado podras modificar el repo 
-entre otro configuraciosn 
+entre otro configuraciones en la rama develop 
 
 ## Colaboladores 
 - Brayas Reyes 
