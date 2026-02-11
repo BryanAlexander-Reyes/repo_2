@@ -63,5 +63,5 @@ cd proyecto
 ---
 ## Video tutorial 
 
-[![Click para ver video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZP8RN3tS9O5c1aXWCej-0YsflwVZA3SULPQ&s)](https://youtu.be/mkEMgc_R_iI?si=z77IXl0h-cRcgS8U)
+[![Click para ver video](asset/imagen_git.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZP8RN3tS9O5c1aXWCej-0YsflwVZA3SULPQ&s)
 [![Click para ver video](asset/imagen_git.png)](https://youtu.be/7v_NUHXmFCw?si=3VJvFtu6hxojlffs)
